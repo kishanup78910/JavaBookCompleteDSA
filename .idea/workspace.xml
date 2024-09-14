@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b252056-3591-415b-9116-cb2a0581dc29" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Lesson1JavaBasic/r1aarrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1JavaBasic/r1aarrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1JavaBasic/r3arrayoddOrEvent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.r1aarrayCopy.executor": "Run",
+    "Application.r3arrayoddOrEvent.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
